@@ -1,0 +1,22 @@
+# Compiled Java class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Mac
+.DS_Store
